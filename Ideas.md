@@ -6,6 +6,7 @@ Package Nanobots into cubes and have user press button to let it fall into a pil
 ### Safety
 As for safety, one can reason this pen will allow creation of weaponry, thereby making it unsafe for the public. 
 They are right, it is unsafe, but so is printing off guns on a 3d printer. Source: http://www.wired.com/2014/05/3d-printed-guns/
+That is an issue that bugs me, as I am working on a way to solve that problem, and sure laws can be put into place to limit what can be made and not made, but that just like everything else will have to be solved by the public if everyone is going to accept the pen as a new invention. Do the pros outway the cons, or should the opportunity cost be not inventing the pen.
 
 ### Pen
 * The pen is mightier than the sword when it can be used for a variety of purposes including protection, notes, work, school, and 
